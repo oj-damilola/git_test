@@ -1,2 +1,2 @@
 
-This is oj.damilola's first git project
+This is oj-damilola's first git project
